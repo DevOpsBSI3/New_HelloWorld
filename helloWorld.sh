@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello World Pushing from GIT to New Jenkins"
+echo "Hello World Pushing from GIT to New Jenkins Server"
